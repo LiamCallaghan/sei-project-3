@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../quests/node_modules/react'
 
 const StopMarker = ({ number, altColor }) => {
   const container = {

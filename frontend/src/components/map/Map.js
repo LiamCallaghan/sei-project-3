@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../quests/node_modules/react'
 
 import MapGL, { Marker } from 'react-map-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'

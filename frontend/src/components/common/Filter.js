@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../quests/node_modules/react'
 // import Slider from 'rc-slider'
 import 'rc-slider/assets/index.css'
 import Geocoder from '../map/Geocoder'

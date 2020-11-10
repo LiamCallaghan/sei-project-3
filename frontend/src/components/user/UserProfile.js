@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../quests/node_modules/react'
 
 import ProfileShow from './ProfileShow'
 import { getUserProfile } from '../../lib/api'

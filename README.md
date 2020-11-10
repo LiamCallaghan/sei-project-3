@@ -1,10 +1,7 @@
-# sei-project-3
-A repository for SEI Group Project MERN
-sri
-don
-something
-don
-this way
-comes
-newline
-conflict!
+# PopQuest
+
+A React app with Mongoose on the backend to build and share quests (tours) of different cities.
+
+## Timeline
+
+Day 1: Planning(Trello), wireframes, 

@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../quests/node_modules/react'
 import BgMap from '../map/BgMap'
 
 class Home extends React.Component {

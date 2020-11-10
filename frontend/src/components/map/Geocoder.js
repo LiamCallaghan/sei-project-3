@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../quests/node_modules/react'
 import GeocoderGL from 'react-mapbox-gl-geocoder'
 
 class Geocoder extends React.Component {

@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from '../quests/node_modules/react'
+import { Link } from '../quests/node_modules/react-router-dom'
 import BgMap from '../map/BgMap'
 import { getSingleProfile, deleteQuest } from '../../lib/api'
 

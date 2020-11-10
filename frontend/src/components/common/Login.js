@@ -1,4 +1,4 @@
-import React from 'react'
+import React from '../quests/node_modules/react'
 import { setToken } from '../../lib/auth'
 import { loginUser } from '../../lib/api'
 
