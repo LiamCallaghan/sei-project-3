@@ -26,6 +26,8 @@
     "faker": "^5.1.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.7",
-    "mongoose-unique-validator": "^2.0.3"
+    "mongoose-unique-validator": "^2.0.3",
+    "react": "file:../../../../usr/local/lib/node_modules/react",
+    "react-router-dom": "file:../../../../usr/local/lib/node_modules/react-router-dom"
   }
 }
