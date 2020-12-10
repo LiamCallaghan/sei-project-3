@@ -1,4 +1,4 @@
-import React from '../quests/node_modules/react'
+import React from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react'
 import { setToken } from '../../lib/auth'
 import { loginUser } from '../../lib/api'
 

@@ -1,5 +1,5 @@
-import React from './components/quest/node_modules/react'
-import { BrowserRouter, Switch, Route } from './components/quests/node_modules/react-router-dom'
+import React from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react'
+import { BrowserRouter, Switch, Route } from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react-router-dom'
 
 import Home from './components/common/Home'
 import Navbar from './components/common/Navbar'

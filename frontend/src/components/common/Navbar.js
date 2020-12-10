@@ -1,5 +1,5 @@
-import React from '../quests/node_modules/react' 
-import { Link, withRouter } from '../quests/node_modules/react-router-dom'
+import React from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react' 
+import { Link, withRouter } from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react-router-dom'
 import Login from './Login'
 import Register from './Register'
 import { isAuthenticated, logout } from '../../lib/auth'

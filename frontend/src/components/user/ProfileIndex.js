@@ -1,5 +1,5 @@
-import React from '../quests/node_modules/react'
-import { Link } from '../quests/node_modules/react-router-dom'
+import React from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react'
+import { Link } from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react-router-dom'
 import { getAllProfiles } from '../../lib/api'
 import BgMap from '../map/BgMap'
 

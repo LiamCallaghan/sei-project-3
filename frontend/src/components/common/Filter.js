@@ -1,4 +1,4 @@
-import React from '../quests/node_modules/react'
+import React from '/Users/liamcallaghan/Development/sei-project-3/frontend/node_modules/react'
 // import Slider from 'rc-slider'
 import 'rc-slider/assets/index.css'
 import Geocoder from '../map/Geocoder'
