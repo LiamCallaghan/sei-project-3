@@ -15,7 +15,7 @@ mongoose.connect(
     }
     try {
       await mongoose.connection.db.dropDatabase()
-      console.log('Database dropped!')
+      console.log('Database dropped')
 
       const randQuests = []
       for (let quest = 0; quest < 5; quest++) {
